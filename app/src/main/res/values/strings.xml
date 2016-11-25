@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SwipeRefreshLayout</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+        <string name="exit_ask">Press back again will turn off.</string>
+        <string name="error_network">No internet connection.</string>
+        <string name="no_data">No data.</string>
+        <string name="error_process">An error occurred while processing data.</string>
+        <string name="error_process_weather">An error occurred while processing weather data.</string>
+        <string name="error_gps_disable">You have not enabled GPS.</string>
+
+        <string name="loading">Loading&#8230;</string>
+        <string name="taptorefresh">Oops, something went wrong. Try again and it might work .\nTap To Refresh.</string>
+
+        <!--TIME-->
+
+        <string name="formatTimeMessage_status_second">status:second</string>
+        <string name="formatTimeMessage_status_minute">status:minute</string>
+        <string name="formatTimeMessage_status_hour">status:hour</string>
+
+
+        <string name="formatTimeMessage_second">&#160;giây trước status:second</string>
+        <string name="formatTimeMessage_minute">&#160;phút trước status:minute</string>
+        <string name="formatTimeMessage_hour">&#160;tiếng trước status:hour</string>
+        <string name="formatTimeMessage_seconds">&#160;giây trước status:second</string>
+        <string name="formatTimeMessage_minutes">&#160;phút trước status:minute</string>
+        <string name="formatTimeMessage_hours">&#160;tiếng trước status:hour</string>
+        <string name="yesterday">Hôm qua</string>
+
+        <!-- TODO: Remove or change this placeholder text -->
+        <string name="hello_blank_fragment">Hello blank fragment</string>
+
+        <!--Login-->
+        <string name="login">Log In</string>
+
+        <string name="login_btn_createaccount">Create Account</string>
+        <string name="login_moreoption">More options</string>
+        <string name="login_whatyourname">What’s your name?</string>
+        <string name="login_whatyouremail">What’s your email?</string>
+        <string name="login_createapassword">Create a password</string>
+        <string name="login_btn_reset_pass">Reset password</string>
+        <string name="login_btn_reset_pass_success">Your password request has been sent. Please check your email</string>
+        <string name="login_btn_reset_pass_fail">Reset password Failed</string>
+
+        <string name="login_fail">Incorrect username or password.</string>
+
+        <string name="login_firstname">First Name</string>
+        <string name="login_lastname">Last Name</string>
+        <string name="login_email">Email Address</string>
+        <string name="login_pass">Password</string>
+        <string name="login_confirmpass">Confirm Password</string>
+        <string name="login_forgetpass">Forgot password?</string>
+        <string name="login_forgetpass_detail">Forgot password?</string>
+        <string name="login_forgetpass_btn">Send</string>
+
+        <string name="login_notification">Turn on Notifications?</string>
+        <string name="login_notification_description">We can notify you when you \nreceive a message, or when there is \nimportant account activity.</string>
+        <string name="login_notification_btn_yes">Yes, notify me</string>
+        <string name="login_notification_btn_skip">Skip</string>
+
+        <string name="login_text_bottom">By signing up, I agree to ShareMySpace\'s \n Terms of Service, Payments Terms of \n Service, Privacy Policy.</string>
+        <string name="facebook_app_id">142834202544793</string>
+
+        <string name="OK">OK</string>
+
+        <string name="login_with_facebook">Login with Facebook</string>
+
+        <string name="create_acc_email_duplicate">Email address exist</string>
+        <string name="signup">Sign Up</string>
+        <string name="skip">You can change this in settings</string>
+
+        <string name="search_city">Enter a city, town, or address</string>
+        <string name="search_nearby">Nearby</string>
+        <string name="search_nearby_loading">loading</string>
+
+        <string name="placeholder">Type name...</string>
+
+        <!--Home Page-->
+        <string name="letstart">Let’s get started</string>
+        <string name="letstart_small">Earn money by listing your venue</string>
+        <string name="welcome_top">Welcome, %s.</string>
+        <string name="hi_top">Hi, %s.</string>
+        <string name="hello_bottom">Lets find the right space to&#160;</string>
+        <string name="hello_bottom_places">%s</string>
+        <string name="ownvenue">Own a venue?</string>
+        <string name="featuresvenues">Featured Venues</string>
+        <string name="popularcities">Popular Cities</string>
+        <string name="recentsearch">Recent Searches</string>
+        <string name="recentview">Recently Viewed</string>
+
+        <string-array name="hello">
+            <item>work</item>
+            <item>celebrate</item>
+            <item>play</item>
+            <item>organize</item>
+            <item>party</item>
+            <item>practice</item>
+            <item>perform</item>
+            <item>meet</item>
+            <item>collaborate</item>
+            <item>show</item>
+            <item>cook</item>
+            <item>retail</item>
+            <item>teach</item>
+            <item>entertain</item>
+            <item>launch</item>
+            <item>compete</item>
+            <item>exhibit</item>
+            <item>film</item>
+            <item>present</item>
+            <item>meetup</item>
+            <item>pop-up</item>
+            <item>worship</item>
+            <item>propose</item>
+            <item>marry</item>
+            <item>cowork</item>
+
+        </string-array>
+
+        <string name="dot">●</string>
+        <string name="minimum">minimum</string>
+        <string name="dollar">$</string>
+        <string name="ByRequest">By Request</string>
+
+        <string name="reset">Reset</string>
+        <string name="ineedaspacefor">I need a space for:</string>
+        <string name="selectause">Select a use</string>
+        <string name="selectausespace">Select a space use</string>
+        <string name="ofpeople"># of people:</string>
+        <string name="typenumber">Enter number</string>
+        <string name="viewresult">View results</string>
+        <string name="people">&#160;people</string>
+
+        <string name="unit_person">/person</string>
+        <string name="unit_month">/month</string>
+        <string name="unit_day">/day</string>
+
+        <string name="showreults">Showing %s Results</string>
+        <string name="at">at&#160;</string>
+        <string name="space_view_person">/Person</string>
+        <string name="capacity">Capacity</string>
+        <string name="milesaway">Miles away</string>
+        <string name="spaceuses">Space Uses</string>
+        <string name="reviews">Reviews (%s)</string>
+        <string name="pricing">Pricing</string>
+        <string name="metrics">Metrics &amp; Measurements</string>
+        <string name="similar">Similar Spaces</string>
+        <string name="inquire">Inquire</string>
+        <string name="test">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</string>
+
+        <string name="prb_default_symbolic_string">$</string>
+
+        <string name="metricstitle">Metrics\n&amp; Measurements</string>
+
+        <!--MENU-->
+        <string name="switchUser">Switch to venue owner</string>
+        <string name="search">Search</string>
+        <string name="home">Home</string>
+        <string name="inbox">Inbox</string>
+        <string name="bookings">Bookings</string>
+        <string name="lists">Lists</string>
+        <string name="profile">Profile</string>
+        <string name="threenight">999+</string>
+
+        <string name="save_to_wish_list">Save to a List</string>
+        <string name="create_a_wish_list">Create a List</string>
+        <string name="save">Save</string>
+        <string name="nameyourlist">Name Your List</string>
+        <string name="space">&#160;space</string>
+        <string name="zero">0</string>
+        <string name="recent">Recent</string>
+        <string name="spaces">&#160;spaces</string>
+        <string name="work">work</string>
+        <string name="favorite_list">Inquiry and\nFavorites List</string>
+        <string name="favorite_desc">Inquire to multiple spaces. Share your list of awesome venues with your friends.</string>
+        <string name="Spaces">&#160;Spaces</string>
+        <string name="Space">&#160;Space</string>
+
+        <string name="Cancel">Cancel</string>
+        <string name="editName">Edit Name</string>
+        <string name="deleteList">Delete List</string>
+        <string name="clearList">Clear List</string>
+        <string name="saveList">Save to a Favorite List</string>
+
+        <string name="login_with_google">Login with Google</string>
+        <string name="login_with_linked">Login with Linkedin</string>
+
+        <string name="review_title">(%s Reviews)</string>
+        <string name="location_space_count">%1$s Spaces at %2$s</string>
+        <string name="review_title_header">Customer Reviews</string>
+        <string name="Details">Details</string>
+        <string name="Starts">Starts</string>
+        <string name="Ends">Ends</string>
+        <string name="Addalternatedate">Add alternate date</string>
+        <string name="AlternateDate">Alternate Date</string>
+        <string name="SendInquiries">Send Inquiries</string>
+        <string name="Use">Use</string>
+        <string name="inquiry_Add">Add</string>
+        <string name="PhoneNumber">Phone Number</string>
+        <string name="detail_hint">Add details about your event. Do you need Food &amp; Beverage? Do you need Wifi? Will there be kids? Extra services (i.e. cleaning, security)?</string>
+        <string name="inquiry_sav_title">Save this form for future inquiries</string>
+        <string name="Selectdate">Select date</string>
+        <string name="Anytime">Anytime</string>
+        <string name="inquiry_success">SENT!You should hear back from them soon.</string>
+        <string name="inquiry_success_name">SENT!You should hear back from %s soon.</string>
+        <string name="inquiry_des_minimun">Minimum 40 characters</string>
+        <string name="Inquire_count">Inquire to %s spaces</string>
+
+        <!--SEARCH  REFINE FILTER -->
+        <string name="Clear">Clear</string>
+        <string name="RefineFilters">Refine Filters</string>
+        <string name="SeeSpaces">See %s Spaces</string>
+        <string name="Add">Add</string>
+        <string name="VenueName">Venue Name</string>
+        <string name="Keyword">Keyword</string>
+        <string name="Price">Price</string>
+        <string name="Distance">Distance</string>
+        <string name="LocationType">Location Type</string>
+        <string name="FoodBeverage">Food &amp; Beverage</string>
+        <string name="Amenities">Amenities</string>
+        <string name="MoreFilters">More Filters</string>
+        <string name="VenueSetting">Venue Setting</string>
+        <string name="AvailableFor">Available For</string>
+        <string name="GoodFor">Good For</string>
+        <string name="EventInsurance">Event Insurance</string>
+        <string name="ParkingTransportation">Parking &amp; Transportation</string>
+        <string name="EthicalCertifications">Ethical Certifications</string>
+        <string name="Edit">Edit</string>
+        <!--Filter detail-->
+        <string name="VenueName_title">Search the name of the venue you are looking for:</string>
+        <string name="TypeName">Type Name</string>
+        <string name="Enterakeyword">Enter a keyword</string>
+        <string name="TypeWord">Type Word</string>
+        <string name="Adjustthedistance">Adjust the distance</string>
+        <string name="Show_results_within">Show results within</string>
+        <string name="miles">miles</string>
+        <string name="value">40</string>
+        <string name="amenities_title">Select desired amenities:</string>
+        <string name="locationType_title">What type of venue are you looking for?</string>
+        <string name="WithinMiles">Within %s miles</string>
+        <string name="mi">%smi</string>
+        <string name="refine_filter_count">%s Selected</string>
+        <string name="Search">Search</string>
+        <string name="FoodAndBeverage">Food &amp; Beverage</string>
+        <string name="SearchArea">Redo search in this area</string>
+
+        <string name="unit_hours">/hr</string>
+        <string name="no_spaces">There aren\'t available Share My Space homes in this area. Try broadening your search</string>
+
+        <string name="delete_success">\"%s\" has been deleted</string>
+        <string name="dialog_content_delete">Are you sure you want to delete \'%s\'?</string>
+        <string name="dialog_content_clear">Are you sure you want to clear Inquiry List?</string>
+        <string name="dialog_title_inquiry">Clear Inquiry List</string>
+        <string name="dialog_title_fav">Delete Favorite List</string>
+        <string name="Usage_title">Search the name of the usage you are looking for:</string>
+        <string name="inquiry_form_des">The venues will be getting back to you soon.</string>
+        <string name="inquiry_form_title_multiple">Your inquiries to %s spaces have been sent!</string>
+        <string name="inquiry_form_title_single">Your inquiries to %s space have been sent!</string>
+        <string name="inquiry_form_title_count">Inquiry to %s spaces</string>
+        <string name="inquiry_form_title_alert_fill_out">Please fill out all required fields</string>
+
+        <string name="Messages">Messages</string>
+
+        <!--status-->
+        <!--['inquiry', 'responded', 'offer_created', 'offer_sent', 'booked', 'rejected', 'paid_deposit', 'paid_in_full']-->
+        <string name="Inquiry">Inquiry</string>
+        <string name="Booking">Booking</string>
+        <string name="Send">Send</string>
+        <string name="WriteMessage">Write message…</string>
+
+        <string name="offer_extended">Booking offer extended</string>
+        <string name="offer_updated">Booking offer extended</string>
+        <string name="offer_rejected">Booking offer rejected</string>
+        <string name="offer_balance_paid">Booking offer balance paid</string>
+        <string name="offer_accepted">Booking offer accepted</string>
+        <string name="offer_send">Booking offer sent</string>
+        <string name="inquiry_sent">Inquiry Sent</string>
+
+        <string name="Booking_Offered">Booking (Offered)</string>
+        <string name="Booking_Rejected">Booking (Rejected)</string>
+        <string name="Booking_Accepted">Booking (Accepted)</string>
+        <string name="Booking_Deposit">Booking (Deposit Paid)</string>
+        <string name="Booking_Complete">Booking (Complete)</string>
+
+
+</resources>

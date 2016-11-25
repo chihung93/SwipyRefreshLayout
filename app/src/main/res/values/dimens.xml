@@ -1,0 +1,139 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="cell_padding">20dp</dimen>
+    <dimen name="button_margin">10dp</dimen>
+
+
+    <dimen name="dividerHeight">0.40dp</dimen>
+
+    <!-- text size -->
+    <dimen name="text_size_level_12">40sp</dimen>
+    <dimen name="text_size_level_11">35sp</dimen>
+    <dimen name="text_size_level_10">30sp</dimen>
+    <dimen name="text_size_level_9">25sp</dimen>
+    <dimen name="text_size_level_8">20sp</dimen>
+    <dimen name="text_size_level_7">18sp</dimen>
+    <dimen name="text_size_level_6">16sp</dimen>
+    <dimen name="text_size_level_5">15sp</dimen>
+    <dimen name="text_size_level_4">14sp</dimen>
+    <dimen name="text_size_level_3">13sp</dimen>
+    <dimen name="text_size_level_2">12sp</dimen>
+    <dimen name="text_size_level_1">11sp</dimen>
+    <dimen name="text_size_level_0">10sp</dimen>
+    <dimen name="text_size_level_08">8sp</dimen>
+
+    <dimen name="text_size_level_8_5">23sp</dimen>
+    <dimen name="text_size_search_field">28sp</dimen>
+
+    <dimen name="text_size_level_menu">18sp</dimen>
+
+
+    <dimen name="dip0">0dp</dimen>
+    <dimen name="dip010">0.10dp</dimen>
+    <dimen name="dip025">0.25dp</dimen>
+    <dimen name="dip05">0.5dp</dimen>
+    <dimen name="dip075">0.75dp</dimen>
+    <dimen name="dip1">1dp</dimen>
+    <dimen name="dip2">2dp</dimen>
+    <dimen name="dip3">3dp</dimen>
+    <dimen name="dip5">5dp</dimen>
+    <dimen name="dip6">6dp</dimen>
+    <dimen name="dip7">7dp</dimen>
+    <dimen name="dip10">10dp</dimen>
+    <dimen name="dip8">8dp</dimen>
+    <dimen name="dip12">12dp</dimen>
+    <dimen name="dip13">13dp</dimen>
+    <dimen name="dip14">14dp</dimen>
+    <dimen name="dip15">15dp</dimen>
+    <dimen name="dip16">16dp</dimen>
+    <dimen name="dip17">17dp</dimen>
+    <dimen name="dip18">18dp</dimen>
+    <dimen name="dip19">19dp</dimen>
+    <dimen name="dip20">20dp</dimen>
+    <dimen name="dip22">22dp</dimen>
+    <dimen name="dip23">23dp</dimen>
+    <dimen name="dip24">24dp</dimen>
+    <dimen name="dip25">25dp</dimen>
+    <dimen name="dip27">27dp</dimen>
+    <dimen name="dip28">28dp</dimen>
+    <dimen name="dip30">30dp</dimen>
+    <dimen name="dip32">32dp</dimen>
+    <dimen name="dip33">33dp</dimen>
+    <dimen name="dip34">34dp</dimen>
+    <dimen name="dip35">35dp</dimen>
+    <dimen name="dip37">37dp</dimen>
+    <dimen name="dip38">38dp</dimen>
+    <dimen name="dip40">40dp</dimen>
+    <dimen name="dip48">48dp</dimen>
+    <dimen name="dip41">41dp</dimen>
+    <dimen name="dip45">45dp</dimen>
+    <dimen name="dip50">50dp</dimen>
+    <dimen name="dip55">55dp</dimen>
+    <dimen name="dip57">57dp</dimen>
+    <dimen name="dip60">60dp</dimen>
+    <dimen name="dip65">65dp</dimen>
+    <dimen name="dip67">67dp</dimen>
+    <dimen name="dip68">68dp</dimen>
+    <dimen name="dip70">70dp</dimen>
+    <dimen name="dip75">75dp</dimen>
+    <dimen name="dip80">80dp</dimen>
+    <dimen name="dip85">85dp</dimen>
+    <dimen name="dip90">90dp</dimen>
+    <dimen name="dip95">95dp</dimen>
+    <dimen name="dip100">100dp</dimen>
+    <dimen name="dip105">105dp</dimen>
+    <dimen name="dip110">110dp</dimen>
+    <dimen name="dip115">115dp</dimen>
+    <dimen name="dip120">120dp</dimen>
+    <dimen name="dip125">125dp</dimen>
+    <dimen name="dip130">130dp</dimen>
+    <dimen name="dip132">132dp</dimen>
+    <dimen name="dip133">133dp</dimen>
+    <dimen name="dip134">134dp</dimen>
+    <dimen name="dip135">135dp</dimen>
+    <dimen name="dip140">140dp</dimen>
+    <dimen name="dip142">142dp</dimen>
+    <dimen name="dip145">145dp</dimen>
+    <dimen name="dip150">150dp</dimen>
+    <dimen name="dip155">155dp</dimen>
+    <dimen name="dip157">157dp</dimen>
+    <dimen name="dip160">160dp</dimen>
+    <dimen name="dip165">165dp</dimen>
+    <dimen name="dip170">170dp</dimen>
+    <dimen name="dip175">175dp</dimen>
+    <dimen name="dip180">180dp</dimen>
+    <dimen name="dip185">185dp</dimen>
+    <dimen name="dip190">190dp</dimen>
+    <dimen name="dip200">200dp</dimen>
+    <dimen name="dip220">220dp</dimen>
+    <dimen name="dip250">250dp</dimen>
+    <dimen name="dip300">300dp</dimen>
+    <dimen name="dip350">350dp</dimen>
+    <dimen name="dip400">400dp</dimen>
+    <dimen name="dip500">500dp</dimen>
+
+    <dimen name="marginleftright">15dp</dimen>
+    <dimen name="widthIconRight">30dp</dimen>
+    <dimen name="search_underline">80dp</dimen>
+    <dimen name="marginleftright20dp">20dp</dimen>
+
+    <dimen name="prb_symbolic_tick_default_text_size">15sp</dimen>
+    <dimen name="prb_drawable_tick_default_spacing">1dp</dimen>
+
+    <dimen name="location_margin">15sp</dimen>
+
+    <dimen name="padding_dialog_inquiry">15dp</dimen>
+
+    <!--Material Dialog-->
+    <dimen name="action_button_height">32dp</dimen>
+    <dimen name="action_button_text_size">14sp</dimen>
+    <dimen name="action_button_min_width">56dp</dimen>
+    <dimen name="action_button_padding_horizontal">4dp</dimen>
+    <!--END-->
+
+    <dimen name="avatar_holder">50dp</dimen>
+
+
+</resources>
